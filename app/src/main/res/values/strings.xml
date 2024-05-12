@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="add_button_description">Add Note</string>
+
+</resources>
